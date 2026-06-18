@@ -172,7 +172,7 @@ dataview_py/
 
 ## Repositório
 
-[Inserir link do repositório GitHub aqui]
+[(https://github.com/lindomarandradegertrudes/Miniprojeto_Lindomar_WEEK8)]
 
 ---
 
