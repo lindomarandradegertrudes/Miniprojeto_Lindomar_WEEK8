@@ -1,0 +1,233 @@
+id_pedido,data_pedido,cliente,produto,categoria,regiao,estado,quantidade,preco_unitario,forma_pagamento
+1,2024-04-24,Cliente_009,Smartphone Samsung,Eletrônicos,Sudeste,MG,2,1850.0,Cartão de Crédito
+2,2024-04-11,Cliente_046,Perfume Importado,Beleza,Norte,AM,5,390.0,Cartão de Débito
+3,2024-06-21,Cliente_007,Calça Jeans,Vestuário,Nordeste,PE,2,149.0,Cartão de Crédito
+5,2024-08-20,Cliente_041,Fone Bluetooth,Eletrônicos,Sudeste,ES,3,210.0,Pix
+7,2024-05-17,Cliente_005,Fone Bluetooth,Eletrônicos,Sudeste,MG,4,210.0,Boleto
+8,2024-05-06,Cliente_048,Relógio Digital,Acessórios,Sul,SC,2,280.0,Pix
+9,2024-03-19,Cliente_041,Relógio Digital,Acessórios,Sudeste,SP,1,280.0,Boleto
+10,2024-05-16,Cliente_050,Perfume Importado,Beleza,Sudeste,SP,5,390.0,Pix
+12,2024-07-04,Cliente_020,Calça Jeans,Vestuário,Centro-Oeste,GO,1,149.0,Boleto
+13,2024-10-08,Cliente_011,Perfume Importado,Beleza,Sul,PR,4,390.0,Pix
+15,2024-06-18,Cliente_005,Tênis Esportivo,Calçados,Sul,PR,1,320.0,Boleto
+16,2024-02-18,Cliente_007,Fone Bluetooth,Eletrônicos,Centro-Oeste,DF,2,210.0,Cartão de Débito
+17,2024-05-07,Cliente_013,Tênis Esportivo,Calçados,Centro-Oeste,MS,1,320.0,Boleto
+18,2024-01-08,Cliente_006,Perfume Importado,Beleza,Sudeste,SP,5,390.0,Boleto
+19,2024-08-04,Cliente_045,Mochila Escolar,Acessórios,Nordeste,MA,3,130.0,Cartão de Débito
+20,2024-09-28,Cliente_011,Tênis Esportivo,Calçados,Sudeste,ES,5,320.0,Cartão de Crédito
+22,2024-12-09,Cliente_042,Fone Bluetooth,Eletrônicos,Nordeste,MA,2,210.0,Pix
+24,2024-06-02,Cliente_043,Cafeteira Elétrica,Eletrodomésticos,Norte,AM,5,250.0,Cartão de Crédito
+25,2024-04-14,Cliente_044,Cafeteira Elétrica,Eletrodomésticos,Sul,RS,3,250.0,Pix
+26,2024-11-22,Cliente_017,Tênis Esportivo,Calçados,Sudeste,MG,2,320.0,Boleto
+28,2024-12-07,Cliente_007,Calça Jeans,Vestuário,Sul,RS,2,149.0,Pix
+29,2024-04-01,Cliente_048,Notebook Dell,Eletrônicos,Sul,SC,1,3200.0,Pix
+31,2024-11-24,Cliente_033,Camiseta Algodão,Vestuário,Sudeste,MG,3,79.0,Cartão de Débito
+32,2024-11-01,Cliente_028,Cafeteira Elétrica,Eletrodomésticos,Nordeste,BA,1,250.0,Pix
+33,2024-09-23,Cliente_035,Camiseta Algodão,Vestuário,Sudeste,ES,1,79.0,Boleto
+34,2024-06-16,Cliente_026,Camiseta Algodão,Vestuário,Norte,RO,4,79.0,Pix
+35,2024-01-01,Cliente_020,Cafeteira Elétrica,Eletrodomésticos,Nordeste,MA,5,250.0,Pix
+36,2024-05-25,Cliente_033,Perfume Importado,Beleza,Centro-Oeste,MT,1,390.0,Pix
+37,2024-02-07,Cliente_030,Tênis Esportivo,Calçados,Sul,SC,5,320.0,Cartão de Débito
+38,2024-03-31,Cliente_045,Tênis Esportivo,Calçados,Sudeste,ES,2,320.0,Cartão de Débito
+39,2024-11-09,Cliente_047,Perfume Importado,Beleza,Norte,RO,4,390.0,Cartão de Débito
+40,2024-11-16,Cliente_016,Fone Bluetooth,Eletrônicos,Nordeste,RN,4,210.0,Pix
+42,2024-01-04,Cliente_023,Cafeteira Elétrica,Eletrodomésticos,Sudeste,ES,4,250.0,Pix
+45,2024-05-22,Cliente_049,Relógio Digital,Acessórios,Nordeste,CE,4,280.0,Cartão de Débito
+46,2024-04-12,Cliente_002,Smartphone Samsung,Eletrônicos,Sudeste,SP,2,1850.0,Boleto
+47,2024-02-28,Cliente_050,Calça Jeans,Vestuário,Sul,RS,5,149.0,Boleto
+48,2024-12-19,Cliente_041,Mochila Escolar,Acessórios,Sul,PR,5,130.0,Boleto
+49,2024-12-04,Cliente_024,Tênis Esportivo,Calçados,Nordeste,RN,4,320.0,Cartão de Crédito
+50,2024-09-24,Cliente_042,Relógio Digital,Acessórios,Sul,SC,2,280.0,Pix
+51,2024-08-18,Cliente_016,Calça Jeans,Vestuário,Sul,PR,3,149.0,Cartão de Débito
+52,2024-11-01,Cliente_045,Calça Jeans,Vestuário,Nordeste,CE,3,149.0,Pix
+53,2024-01-09,Cliente_006,Fone Bluetooth,Eletrônicos,Centro-Oeste,DF,4,210.0,Pix
+54,2024-12-25,Cliente_030,Mochila Escolar,Acessórios,Norte,RO,3,130.0,Pix
+56,2024-10-10,Cliente_019,Notebook Dell,Eletrônicos,Nordeste,BA,1,3200.0,Boleto
+57,2024-09-01,Cliente_008,Calça Jeans,Vestuário,Sul,PR,3,149.0,Cartão de Crédito
+58,2024-10-12,Cliente_049,Camiseta Algodão,Vestuário,Sudeste,RJ,1,79.0,Cartão de Débito
+59,2024-11-13,Cliente_004,Cafeteira Elétrica,Eletrodomésticos,Centro-Oeste,MS,5,250.0,Cartão de Crédito
+61,2024-02-28,Cliente_035,Camiseta Algodão,Vestuário,Norte,PA,4,79.0,Boleto
+62,2024-08-27,Cliente_045,Cafeteira Elétrica,Eletrodomésticos,Nordeste,MA,1,250.0,Pix
+63,2024-01-14,Cliente_006,Mochila Escolar,Acessórios,Nordeste,RN,3,130.0,Boleto
+64,2024-08-28,Cliente_034,Camiseta Algodão,Vestuário,Norte,AM,2,79.0,Cartão de Débito
+65,2024-12-09,Cliente_007,Calça Jeans,Vestuário,Centro-Oeste,MS,3,149.0,Boleto
+66,2024-06-14,Cliente_008,Relógio Digital,Acessórios,Sudeste,MG,3,280.0,Cartão de Débito
+67,2024-11-16,Cliente_029,Perfume Importado,Beleza,Nordeste,RN,4,390.0,Cartão de Crédito
+68,2024-06-08,Cliente_036,Cafeteira Elétrica,Eletrodomésticos,Sul,RS,2,250.0,Cartão de Crédito
+70,2024-07-31,Cliente_022,Perfume Importado,Beleza,Sul,PR,3,390.0,Pix
+72,2024-12-27,Cliente_025,Mochila Escolar,Acessórios,Sudeste,MG,4,130.0,Cartão de Débito
+74,2024-11-28,Cliente_006,Camiseta Algodão,Vestuário,Nordeste,RN,4,79.0,Pix
+75,2024-11-19,Cliente_044,Perfume Importado,Beleza,Sudeste,SP,2,390.0,Pix
+76,2024-01-15,Cliente_003,Relógio Digital,Acessórios,Sul,RS,3,280.0,Pix
+77,2024-11-08,Cliente_025,Notebook Dell,Eletrônicos,Sul,PR,1,3200.0,Boleto
+78,2024-02-07,Cliente_029,Relógio Digital,Acessórios,Nordeste,RN,2,280.0,Pix
+79,2024-07-14,Cliente_037,Mochila Escolar,Acessórios,Centro-Oeste,GO,2,130.0,Pix
+80,2024-04-27,Cliente_039,Cafeteira Elétrica,Eletrodomésticos,Sudeste,ES,3,250.0,Pix
+82,2024-05-19,Cliente_011,Perfume Importado,Beleza,Nordeste,RN,5,390.0,Pix
+83,2024-12-12,Cliente_047,Relógio Digital,Acessórios,Sudeste,RJ,2,280.0,
+84,2024-07-14,Cliente_041,Relógio Digital,Acessórios,Nordeste,CE,5,280.0,Pix
+85,2024-11-28,Cliente_027,Fone Bluetooth,Eletrônicos,Sudeste,ES,3,210.0,Cartão de Crédito
+87,2024-08-15,Cliente_029,Camiseta Algodão,Vestuário,Sudeste,MG,2,79.0,Boleto
+88,2024-08-20,Cliente_006,Mochila Escolar,Acessórios,Nordeste,PE,1,130.0,Boleto
+89,2024-04-16,Cliente_038,Cafeteira Elétrica,Eletrodomésticos,Sul,PR,5,250.0,Boleto
+91,2024-08-31,Cliente_029,Notebook Dell,Eletrônicos,Centro-Oeste,GO,1,3200.0,Pix
+92,2024-02-01,Cliente_031,Perfume Importado,Beleza,Nordeste,MA,1,390.0,Cartão de Débito
+95,2024-02-04,Cliente_006,Calça Jeans,Vestuário,Sul,RS,4,149.0,Cartão de Crédito
+96,2024-07-29,Cliente_023,Perfume Importado,Beleza,Norte,RO,1,390.0,Cartão de Débito
+97,2024-04-24,Cliente_007,Fone Bluetooth,Eletrônicos,Sul,RS,4,210.0,Pix
+99,2024-03-13,Cliente_048,Notebook Dell,Eletrônicos,Norte,AC,1,3200.0,Cartão de Crédito
+100,2024-03-20,Cliente_011,Calça Jeans,Vestuário,Norte,AM,1,149.0,Cartão de Crédito
+101,2024-02-26,Cliente_019,Perfume Importado,Beleza,Sudeste,MG,4,390.0,Cartão de Débito
+102,2024-06-16,Cliente_008,Fone Bluetooth,Eletrônicos,Sul,SC,3,210.0,Cartão de Crédito
+103,2024-08-11,Cliente_002,Calça Jeans,Vestuário,Sudeste,ES,1,149.0,Cartão de Débito
+105,2024-06-22,Cliente_015,Perfume Importado,Beleza,Sudeste,ES,3,390.0,Pix
+106,2024-03-15,Cliente_017,Calça Jeans,Vestuário,Sul,PR,1,149.0,Boleto
+107,2024-11-25,Cliente_041,Relógio Digital,Acessórios,Norte,AC,5,280.0,Pix
+111,2024-12-13,Cliente_039,Camiseta Algodão,Vestuário,Centro-Oeste,DF,3,79.0,Cartão de Crédito
+112,2024-10-25,Cliente_043,Cafeteira Elétrica,Eletrodomésticos,Sul,SC,1,250.0,Boleto
+114,2024-07-04,Cliente_020,Mochila Escolar,Acessórios,Norte,RO,1,130.0,Boleto
+115,2024-11-12,Cliente_009,Camiseta Algodão,Vestuário,Sudeste,SP,3,79.0,Cartão de Débito
+116,2024-08-15,Cliente_040,Tênis Esportivo,Calçados,Centro-Oeste,MS,2,320.0,Pix
+117,2024-08-24,Cliente_050,Fone Bluetooth,Eletrônicos,Nordeste,RN,4,210.0,Pix
+118,2024-10-10,Cliente_007,Camiseta Algodão,Vestuário,Sudeste,ES,3,79.0,Cartão de Crédito
+119,2024-07-31,Cliente_004,Fone Bluetooth,Eletrônicos,Centro-Oeste,MS,1,210.0,Cartão de Débito
+120,2024-05-26,Cliente_031,Calça Jeans,Vestuário,Sul,PR,1,149.0,
+121,2024-05-27,Cliente_016,Notebook Dell,Eletrônicos,Norte,AC,1,3200.0,Pix
+124,2024-10-24,Cliente_048,Smartphone Samsung,Eletrônicos,Nordeste,PE,1,1850.0,Pix
+125,2024-08-22,Cliente_003,Relógio Digital,Acessórios,Sul,PR,1,280.0,Pix
+126,2024-11-27,Cliente_013,Perfume Importado,Beleza,Centro-Oeste,MS,1,390.0,Pix
+127,2024-04-05,Cliente_032,Mochila Escolar,Acessórios,Centro-Oeste,DF,3,130.0,Cartão de Débito
+129,2024-05-20,Cliente_041,Tênis Esportivo,Calçados,Nordeste,RN,4,320.0,Cartão de Crédito
+130,2024-03-05,Cliente_005,Notebook Dell,Eletrônicos,Norte,AC,1,3200.0,Boleto
+131,2024-10-20,Cliente_009,Calça Jeans,Vestuário,Nordeste,MA,1,149.0,Pix
+132,2024-05-13,Cliente_046,Mochila Escolar,Acessórios,Norte,AM,3,130.0,Cartão de Débito
+135,2024-06-07,Cliente_026,Notebook Dell,Eletrônicos,Norte,AM,1,3200.0,Cartão de Débito
+136,2024-10-09,Cliente_041,Relógio Digital,Acessórios,Centro-Oeste,MS,2,280.0,Boleto
+137,2024-12-29,Cliente_015,Camiseta Algodão,Vestuário,Sul,PR,3,79.0,Pix
+138,2024-11-10,Cliente_035,Camiseta Algodão,Vestuário,Sul,RS,3,79.0,Cartão de Crédito
+139,2024-01-15,Cliente_006,Cafeteira Elétrica,Eletrodomésticos,Nordeste,RN,1,250.0,Cartão de Crédito
+140,2024-09-04,Cliente_016,Tênis Esportivo,Calçados,Centro-Oeste,MS,3,320.0,Cartão de Débito
+141,2024-06-25,Cliente_026,Cafeteira Elétrica,Eletrodomésticos,Sul,SC,3,250.0,Boleto
+144,2024-10-01,Cliente_001,Camiseta Algodão,Vestuário,Centro-Oeste,DF,3,79.0,Cartão de Crédito
+145,2024-10-10,Cliente_019,Cafeteira Elétrica,Eletrodomésticos,Norte,PA,3,250.0,Cartão de Crédito
+147,2024-11-06,Cliente_033,Calça Jeans,Vestuário,Centro-Oeste,DF,2,149.0,Boleto
+148,2024-06-02,Cliente_031,Calça Jeans,Vestuário,Norte,AC,5,149.0,Cartão de Crédito
+149,2024-12-01,Cliente_050,Tênis Esportivo,Calçados,Norte,AC,3,320.0,Boleto
+151,2024-04-16,Cliente_036,Relógio Digital,Acessórios,Sudeste,RJ,5,280.0,Pix
+152,2024-09-04,Cliente_013,Perfume Importado,Beleza,Nordeste,CE,5,390.0,Boleto
+153,2024-10-13,Cliente_047,Relógio Digital,Acessórios,Nordeste,MA,3,280.0,Pix
+155,2024-10-27,Cliente_016,Camiseta Algodão,Vestuário,Sul,PR,5,79.0,Boleto
+156,2024-10-08,Cliente_011,Relógio Digital,Acessórios,Sudeste,RJ,1,280.0,Cartão de Débito
+157,2024-04-28,Cliente_035,Camiseta Algodão,Vestuário,Sudeste,SP,5,79.0,Cartão de Crédito
+158,2024-01-20,Cliente_001,Mochila Escolar,Acessórios,Centro-Oeste,MT,3,130.0,Pix
+159,2024-05-19,Cliente_013,Relógio Digital,Acessórios,Sul,RS,4,280.0,
+160,2024-11-08,Cliente_041,Camiseta Algodão,Vestuário,Norte,PA,2,79.0,Cartão de Débito
+161,2024-07-15,Cliente_016,Calça Jeans,Vestuário,Sul,PR,3,149.0,
+162,2024-06-06,Cliente_011,Fone Bluetooth,Eletrônicos,Sudeste,SP,4,210.0,Cartão de Débito
+163,2024-04-22,Cliente_009,Camiseta Algodão,Vestuário,Nordeste,RN,2,79.0,Cartão de Débito
+164,2024-02-11,Cliente_034,Perfume Importado,Beleza,Sul,PR,5,390.0,Cartão de Débito
+165,2024-06-16,Cliente_034,Fone Bluetooth,Eletrônicos,Norte,PA,2,210.0,Cartão de Débito
+167,2024-08-04,Cliente_023,Fone Bluetooth,Eletrônicos,Norte,AM,1,210.0,Cartão de Crédito
+169,2024-07-20,Cliente_034,Calça Jeans,Vestuário,Sudeste,RJ,5,149.0,Boleto
+170,2024-05-06,Cliente_030,Perfume Importado,Beleza,Centro-Oeste,DF,2,390.0,Pix
+171,2024-02-04,Cliente_007,Cafeteira Elétrica,Eletrodomésticos,Sudeste,RJ,2,250.0,Cartão de Crédito
+172,2024-09-14,Cliente_019,Perfume Importado,Beleza,Sul,PR,2,390.0,Boleto
+173,2024-04-23,Cliente_027,Camiseta Algodão,Vestuário,Sul,RS,5,79.0,Pix
+174,2024-11-25,Cliente_043,Perfume Importado,Beleza,Centro-Oeste,GO,3,390.0,Cartão de Débito
+175,2024-12-28,Cliente_010,Relógio Digital,Acessórios,Sul,PR,3,280.0,Cartão de Débito
+176,2024-07-08,Cliente_006,Fone Bluetooth,Eletrônicos,Nordeste,BA,4,210.0,Boleto
+178,2024-12-26,Cliente_014,Relógio Digital,Acessórios,Sul,RS,5,280.0,Cartão de Débito
+179,2024-08-26,Cliente_007,Camiseta Algodão,Vestuário,Nordeste,RN,4,79.0,Cartão de Débito
+181,2024-08-23,Cliente_011,Calça Jeans,Vestuário,Nordeste,MA,4,149.0,Pix
+182,2024-12-08,Cliente_004,Tênis Esportivo,Calçados,Norte,AM,1,320.0,
+184,2024-09-25,Cliente_010,Mochila Escolar,Acessórios,Sul,PR,1,130.0,Boleto
+185,2024-06-02,Cliente_044,Mochila Escolar,Acessórios,Centro-Oeste,MT,2,130.0,Cartão de Crédito
+186,2024-09-12,Cliente_028,Tênis Esportivo,Calçados,Sudeste,RJ,1,320.0,Pix
+187,2024-02-08,Cliente_044,Cafeteira Elétrica,Eletrodomésticos,Centro-Oeste,MS,1,250.0,Pix
+188,2024-02-09,Cliente_020,Cafeteira Elétrica,Eletrodomésticos,Sul,RS,4,250.0,Boleto
+189,2024-02-20,Cliente_028,Notebook Dell,Eletrônicos,Sudeste,MG,1,3200.0,Boleto
+190,2024-04-26,Cliente_023,Tênis Esportivo,Calçados,Nordeste,MA,4,320.0,Cartão de Débito
+191,2024-07-13,Cliente_046,Smartphone Samsung,Eletrônicos,Sudeste,MG,2,1850.0,Boleto
+192,2024-04-05,Cliente_028,Camiseta Algodão,Vestuário,Sudeste,RJ,1,79.0,Cartão de Débito
+193,2024-07-30,Cliente_025,Calça Jeans,Vestuário,Centro-Oeste,GO,3,149.0,Cartão de Crédito
+196,2024-06-13,Cliente_039,Mochila Escolar,Acessórios,Norte,PA,3,130.0,Boleto
+197,2024-05-23,Cliente_026,Cafeteira Elétrica,Eletrodomésticos,Sul,SC,4,250.0,Pix
+198,2024-12-20,Cliente_005,Relógio Digital,Acessórios,Sul,SC,3,280.0,Cartão de Débito
+199,2024-09-02,Cliente_038,Mochila Escolar,Acessórios,Sudeste,ES,5,130.0,Cartão de Débito
+200,2024-05-07,Cliente_043,Perfume Importado,Beleza,Norte,AM,1,390.0,Pix
+201,2024-02-20,Cliente_017,Calça Jeans,Vestuário,Centro-Oeste,GO,1,149.0,Boleto
+202,2024-01-13,Cliente_031,Cafeteira Elétrica,Eletrodomésticos,Norte,PA,3,250.0,Cartão de Crédito
+203,2024-09-04,Cliente_023,Calça Jeans,Vestuário,Centro-Oeste,MT,5,149.0,Cartão de Débito
+204,2024-05-04,Cliente_034,Tênis Esportivo,Calçados,Nordeste,BA,2,320.0,Boleto
+205,2024-11-10,Cliente_013,Notebook Dell,Eletrônicos,Centro-Oeste,DF,1,3200.0,Cartão de Débito
+207,2024-02-28,Cliente_023,Mochila Escolar,Acessórios,Norte,AC,5,130.0,Pix
+208,2024-05-02,Cliente_020,Smartphone Samsung,Eletrônicos,Sul,SC,1,1850.0,Cartão de Crédito
+211,2024-04-25,Cliente_035,Fone Bluetooth,Eletrônicos,Nordeste,BA,3,210.0,Pix
+213,2024-05-14,Cliente_023,Fone Bluetooth,Eletrônicos,Nordeste,BA,4,210.0,Cartão de Crédito
+214,2024-11-11,Cliente_009,Calça Jeans,Vestuário,Norte,AC,2,149.0,Boleto
+215,2024-09-20,Cliente_044,Camiseta Algodão,Vestuário,Nordeste,RN,3,79.0,Cartão de Crédito
+218,2024-08-07,Cliente_014,Calça Jeans,Vestuário,Sudeste,ES,2,149.0,Cartão de Débito
+219,2024-11-16,Cliente_030,Calça Jeans,Vestuário,Sudeste,SP,1,149.0,Cartão de Crédito
+221,2024-01-01,Cliente_014,Fone Bluetooth,Eletrônicos,Centro-Oeste,GO,1,210.0,
+224,2024-03-04,Cliente_038,Fone Bluetooth,Eletrônicos,Sudeste,SP,2,210.0,Cartão de Débito
+225,2024-12-03,Cliente_020,Cafeteira Elétrica,Eletrodomésticos,Norte,RO,1,250.0,Boleto
+226,2024-05-03,Cliente_032,Fone Bluetooth,Eletrônicos,Centro-Oeste,DF,1,210.0,Cartão de Crédito
+227,2024-12-15,Cliente_012,Cafeteira Elétrica,Eletrodomésticos,Centro-Oeste,MS,5,250.0,Cartão de Débito
+228,2024-07-31,Cliente_028,Tênis Esportivo,Calçados,Centro-Oeste,MS,5,320.0,Cartão de Débito
+229,2024-07-19,Cliente_038,Fone Bluetooth,Eletrônicos,Sul,RS,3,210.0,Cartão de Crédito
+232,2024-09-18,Cliente_024,Cafeteira Elétrica,Eletrodomésticos,Sudeste,ES,4,250.0,Cartão de Crédito
+234,2024-05-07,Cliente_027,Perfume Importado,Beleza,Centro-Oeste,MT,3,390.0,Pix
+235,2024-08-26,Cliente_019,Perfume Importado,Beleza,Sudeste,ES,1,390.0,Pix
+236,2024-10-29,Cliente_032,Cafeteira Elétrica,Eletrodomésticos,Sul,SC,3,250.0,Boleto
+237,2024-01-01,Cliente_049,Perfume Importado,Beleza,Nordeste,BA,3,390.0,Cartão de Débito
+238,2024-02-17,Cliente_003,Tênis Esportivo,Calçados,Sul,RS,3,320.0,Boleto
+240,2024-04-29,Cliente_005,Calça Jeans,Vestuário,Nordeste,MA,3,149.0,Boleto
+241,2024-08-19,Cliente_020,Smartphone Samsung,Eletrônicos,Norte,RO,2,1850.0,Cartão de Débito
+242,2024-02-16,Cliente_046,Tênis Esportivo,Calçados,Sul,SC,2,320.0,Boleto
+243,2024-08-24,Cliente_007,Mochila Escolar,Acessórios,Centro-Oeste,MT,1,130.0,Boleto
+244,2024-01-12,Cliente_005,Smartphone Samsung,Eletrônicos,Norte,RO,1,1850.0,Boleto
+245,2024-10-20,Cliente_028,Tênis Esportivo,Calçados,Centro-Oeste,GO,2,320.0,Cartão de Débito
+246,2024-11-13,Cliente_040,Relógio Digital,Acessórios,Sul,PR,5,280.0,Boleto
+247,2024-05-07,Cliente_041,Mochila Escolar,Acessórios,Sul,RS,5,130.0,Cartão de Crédito
+249,2024-02-21,Cliente_016,Calça Jeans,Vestuário,Norte,PA,2,149.0,Boleto
+250,2024-05-01,Cliente_038,Mochila Escolar,Acessórios,Nordeste,PE,2,130.0,Pix
+252,2024-06-23,Cliente_046,Calça Jeans,Vestuário,Norte,PA,2,149.0,Boleto
+253,2024-07-10,Cliente_046,Smartphone Samsung,Eletrônicos,Norte,RO,1,1850.0,Cartão de Débito
+254,2024-12-21,Cliente_040,Relógio Digital,Acessórios,Nordeste,PE,5,280.0,Pix
+255,2024-01-17,Cliente_012,Tênis Esportivo,Calçados,Norte,AC,5,320.0,Pix
+257,2024-01-01,Cliente_004,Smartphone Samsung,Eletrônicos,Nordeste,CE,1,1850.0,Cartão de Débito
+258,2024-11-29,Cliente_049,Mochila Escolar,Acessórios,Sudeste,ES,5,130.0,Boleto
+260,2024-08-10,Cliente_011,Tênis Esportivo,Calçados,Centro-Oeste,MT,5,320.0,Cartão de Crédito
+261,2024-02-19,Cliente_004,Camiseta Algodão,Vestuário,Nordeste,CE,2,79.0,Cartão de Débito
+262,2024-01-14,Cliente_014,Cafeteira Elétrica,Eletrodomésticos,Centro-Oeste,MT,1,250.0,Boleto
+263,2024-07-08,Cliente_025,Camiseta Algodão,Vestuário,Sudeste,ES,2,79.0,Pix
+265,2024-06-02,Cliente_006,Relógio Digital,Acessórios,Norte,PA,4,280.0,Cartão de Débito
+266,2024-03-29,Cliente_011,Cafeteira Elétrica,Eletrodomésticos,Sul,PR,4,250.0,Boleto
+268,2024-07-31,Cliente_010,Cafeteira Elétrica,Eletrodomésticos,Norte,AC,1,250.0,Boleto
+269,2024-05-15,Cliente_025,Camiseta Algodão,Vestuário,Norte,RO,4,79.0,Cartão de Débito
+270,2024-12-19,Cliente_016,Mochila Escolar,Acessórios,Sudeste,ES,3,130.0,Cartão de Crédito
+271,2024-03-09,Cliente_020,Camiseta Algodão,Vestuário,Centro-Oeste,GO,2,79.0,Cartão de Débito
+272,2024-09-20,Cliente_011,Mochila Escolar,Acessórios,Centro-Oeste,MS,1,130.0,Cartão de Crédito
+273,2024-01-17,Cliente_030,Fone Bluetooth,Eletrônicos,Sul,PR,2,210.0,Cartão de Crédito
+276,2024-11-03,Cliente_001,Tênis Esportivo,Calçados,Centro-Oeste,MT,2,320.0,Boleto
+277,2024-04-21,Cliente_030,Mochila Escolar,Acessórios,Nordeste,MA,3,130.0,Pix
+278,2024-12-16,Cliente_007,Calça Jeans,Vestuário,Norte,RO,3,149.0,Cartão de Débito
+279,2024-05-03,Cliente_004,Camiseta Algodão,Vestuário,Sul,PR,5,79.0,Cartão de Débito
+280,2024-10-25,Cliente_046,Mochila Escolar,Acessórios,Centro-Oeste,DF,1,130.0,Boleto
+281,2024-12-02,Cliente_036,Calça Jeans,Vestuário,Norte,RO,2,149.0,Boleto
+282,2024-04-24,Cliente_048,Calça Jeans,Vestuário,Sudeste,RJ,3,149.0,Pix
+283,2024-04-09,Cliente_033,Tênis Esportivo,Calçados,Norte,AM,4,320.0,Cartão de Crédito
+284,2024-08-22,Cliente_010,Fone Bluetooth,Eletrônicos,Nordeste,MA,5,210.0,Pix
+285,2024-04-17,Cliente_049,Tênis Esportivo,Calçados,Sudeste,ES,3,320.0,Boleto
+286,2024-07-15,Cliente_001,Mochila Escolar,Acessórios,Centro-Oeste,DF,4,130.0,Cartão de Crédito
+287,2024-12-21,Cliente_023,Tênis Esportivo,Calçados,Sudeste,RJ,2,320.0,Pix
+288,2024-12-17,Cliente_009,Camiseta Algodão,Vestuário,Centro-Oeste,MS,4,79.0,Pix
+289,2024-04-18,Cliente_047,Tênis Esportivo,Calçados,Sul,PR,2,320.0,Cartão de Crédito
+291,2024-06-03,Cliente_027,Relógio Digital,Acessórios,Sul,PR,1,280.0,Cartão de Crédito
+292,2024-02-24,Cliente_032,Cafeteira Elétrica,Eletrodomésticos,Sudeste,MG,1,250.0,Boleto
+294,2024-05-11,Cliente_042,Smartphone Samsung,Eletrônicos,Norte,AM,1,1850.0,Boleto
+296,2024-04-03,Cliente_008,Camiseta Algodão,Vestuário,Sudeste,MG,3,79.0,Cartão de Débito
+297,2024-03-22,Cliente_007,Notebook Dell,Eletrônicos,Sudeste,RJ,1,3200.0,Cartão de Débito
+298,2024-09-06,Cliente_008,Cafeteira Elétrica,Eletrodomésticos,Sudeste,RJ,4,250.0,Cartão de Débito
+299,2024-09-22,Cliente_034,Cafeteira Elétrica,Eletrodomésticos,Norte,PA,3,250.0,Cartão de Crédito
+300,2024-11-25,Cliente_011,Perfume Importado,Beleza,Norte,AM,1,390.0,Cartão de Débito
