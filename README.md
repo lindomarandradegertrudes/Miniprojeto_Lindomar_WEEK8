@@ -169,7 +169,7 @@ Identifico três pontos de melhoria para versões futuras do projeto:
 
 1. **Modelagem Preditiva:** Aplicar modelos de Machine Learning sobre o dataset final — como regressão para prever receita dos próximos meses.
 
-2. **Dashboard Interativo:** Criar uma tela com bibliotecas como Plotly ou Streamlit, permitindo filtrar os dados por região, categoria e período.
+2. **Dashboard Interativo:** Criar uma tela com bibliotecas, permitindo filtrar os dados por região, categoria e período.
 
 3. **Automação de Pipeline:** Automatizar o processo de dados para que novas entradas de vendas sejam processadas e analisadas automaticamente, sem intervenção manual.
 ---
