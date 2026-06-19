@@ -164,9 +164,9 @@ dataview_py/
 
 
 ## Pontos a melhorar. Identifico três pontos de melhoria para versões futuras do projeto:
-** Primeiro, aplicar modelos de Machine Learning sobre o dataset final — como regressão para prever receita dos próximos meses.
-** Segundo, criar um dashboard interativo com bibliotecas como Plotly ou Streamlit, permitindo filtrar os dados por região, categoria e período.
-**E terceiro, automatizar o pipeline de dados para que novas entradas de vendas sejam processadas e analisadas automaticamente, sem intervenção manual."
+**1-** Primeiro, aplicar modelos de Machine Learning sobre o dataset final — como regressão para prever receita dos próximos meses.
+**2-** Segundo, criar um dashboard interativo com bibliotecas como Plotly ou Streamlit, permitindo filtrar os dados por região, categoria e período.
+**3-** E terceiro, automatizar o pipeline de dados para que novas entradas de vendas sejam processadas e analisadas automaticamente, sem intervenção manual."
 ---
 
 ## Vídeo de demonstração:
