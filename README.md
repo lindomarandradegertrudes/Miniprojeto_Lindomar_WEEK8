@@ -163,10 +163,10 @@ dataview_py/
 - GitHub para versionamento
 
 
-##  Próximos Passos e Melhorias Futuras
-1. **Modelagem Preditiva**: Utilizar os dados históricos já organizados para calcular e prever o quanto a empresa deve faturar nos próximos meses e trimestres.
-2. **Integração com Dashboards**: Criar uma tela (dashboard) fácil de usar, onde qualquer pessoa poderá filtrar os resultados por categoria de produto ou região em tempo real.
-3. **Automação de Pipeline**: Vamos automatizar todo o processo de atualização dos dados. O sistema passará por testes automáticos toda vez que novas informações entrarem, garantindo que o painel continue funcionando perfeitamente e sem erros manuais.
+## Pontos a melhorar. Identifico três pontos de melhoria para versões futuras do projeto:
+** Primeiro, aplicar modelos de Machine Learning sobre o dataset final — como regressão para prever receita dos próximos meses.
+** Segundo, criar um dashboard interativo com bibliotecas como Plotly ou Streamlit, permitindo filtrar os dados por região, categoria e período.
+**E terceiro, automatizar o pipeline de dados para que novas entradas de vendas sejam processadas e analisadas automaticamente, sem intervenção manual."
 ---
 
 ## Vídeo de demonstração:
